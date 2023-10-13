@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Code Development
-- 📫 CONTACT :
+- 📫 CONTACT
 - Email: naiduvenkat914@gmail.com
 - GitHub: https://github.com/VenkatNaidu-342/
 - Linkedin: https://www.linkedin.com/in/akula-venkat-naidu-82908a260/
